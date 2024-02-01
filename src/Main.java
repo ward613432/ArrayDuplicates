@@ -16,7 +16,6 @@ public class Main {
 
         // Output everything
         System.out.println(Arrays.toString(repeats));
-
         for (int i = 0; i < repeats.length; i++) {
             int currentNumber = repeats[i];
 
